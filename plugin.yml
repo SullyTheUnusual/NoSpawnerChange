@@ -1,0 +1,4 @@
+name: NoSpawnerChange
+version: 1.0
+main: com.gmail.sullytheunusual.NoSpawnerChange.NoSpawnerChange
+description: Prevent players from changing spawner type with spawn eggs
